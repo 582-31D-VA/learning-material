@@ -38,3 +38,13 @@ classes and subject matter.
 -   [NNGroup: Storyboards Help Visualize UX Ideas](https://www.nngroup.com/articles/storyboards-visualize-ideas/)
 -   [Figma: Storytelling with design](https://www.figma.com/resource-library/storytelling-in-design/)
 -   [Figma: How to create a storyboard](https://www.figma.com/resource-library/how-to-create-a-ux-storyboard/)
+
+## 3.
+
+### Grid system
+
+-   [NNGroup: Using Grids in Interface Designs](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
+-   [Richard Hollis: The Modernist Grid](https://www.readingdesign.org/modernist-grid)
+-   [Josef Muller Brockmann: Grid Systems In Graphic Design](https://monoskop.org/images/a/a4/Mueller-Brockmann_Josef_Grid_Systems_in_Graphic_Design_Raster_Systeme_fuer_die_Visuele_Gestaltung_English_German_no_OCR.pdf)
+-   [Figma: Layout Grids in Figma](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/)
+-   [Figma: Create layout grids with grids, columns, and rows](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows)
