@@ -48,3 +48,35 @@ classes and subject matter.
 -   [Josef Muller Brockmann: Grid Systems In Graphic Design](https://monoskop.org/images/a/a4/Mueller-Brockmann_Josef_Grid_Systems_in_Graphic_Design_Raster_Systeme_fuer_die_Visuele_Gestaltung_English_German_no_OCR.pdf)
 -   [Figma: Layout Grids in Figma](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/)
 -   [Figma: Create layout grids with grids, columns, and rows](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows)
+
+## 4.
+
+### Styles
+
+-   [Figma: Components, styles, and shared library best practices](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
+-   [Figma: Create color, text, effect, and layout grid styles](https://help.figma.com/hc/en-us/articles/360038746534-Create-color-text-effect-and-layout-grid-styles)
+
+### Typography
+
+-   [Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)
+-   [Practical Typography](https://practicaltypography.com)
+-   [Fonts in Use](https://fontsinuse.com)
+-   [It's all about type](https://typography-interaction.github.io/topic/typography/)
+
+### Type foundries
+
+-   [Bold Decisions](https://bold-decisions.biz/)
+-   [Colophon Foundry](https://www.colophon-foundry.org/)
+-   [Commercial Classics](https://commercialclassics.com/)
+-   [Commercial Type](https://commercialtype.com/)
+-   [DJR](https://djr.com/)
+-   [Dinamo](https://abcdinamo.com/)
+-   [Grilli Type](https://www.grillitype.com/)
+-   [HAL Typefaces](https://type.hanli.eu/)
+-   [Klim Type Foundry](https://klim.co.nz/)
+-   [Lineto.com](https://lineto.com/)
+-   [Out Of The Dark](https://www.outofthedark.xyz/)
+-   [Production Type](https://www.productiontype.com/)
+-   [Source Type](https://www.sourcetype.com/)
+-   [The Pyte Foundry](https://thepytefoundry.net/)
+-   [TypeMates](https://www.typemates.com/)
