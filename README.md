@@ -80,3 +80,14 @@ classes and subject matter.
 -   [Source Type](https://www.sourcetype.com/)
 -   [The Pyte Foundry](https://thepytefoundry.net/)
 -   [TypeMates](https://www.typemates.com/)
+
+## 5.
+
+### Colors
+
+-   [Colour and Culture](https://attachments.are.na/20671645/f221a6d61ce4f44487e8e80e74bef01b.pdf?1677784318)
+-   [Adobe: Color Wheel](https://color.adobe.com/create/color-wheel)
+-   [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
+-   [LCH Color Picker](https://css.land/lch/)
+-   [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
+-   [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/)
